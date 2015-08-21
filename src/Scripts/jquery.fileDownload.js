@@ -13,6 +13,7 @@
 * http://johnculviner.com/jquery-file-download-plugin-for-ajax-like-feature-rich-file-downloads/
 * !!!!NOTE!!!!
 */
+var jQuery = require('jquery');
 
 (function($, window){
 	// i'll just put them here to get evaluated on script load
